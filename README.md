@@ -1,4 +1,4 @@
-# All-In-One-WP-Migration-With-Import-32GB
+# WP-Migration-With-Import-32GB
 
 ### (from Version 6.77) ###
 
